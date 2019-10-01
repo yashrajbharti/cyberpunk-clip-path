@@ -1,8 +1,5 @@
 /*Chrome,Safari*/
-body{
-  background-color: #000;
--webkit-clip-path: polygon(241px 378px,245px 387px,395px 388px,418px 362px,490px 363px,630px 361px,641px 349px,638px 252px,609px 212px,609px 84px,569px 51px,276px 51px,242px 93px,111px 94px,112px 261px,229px 360px);
+-webkit-clip-path: polygon(86px 119px,56px 119px,55px 254px,19px 286px,55px 320px,53px 447px,85px 448px,85px 483px,288px 484px,315px 518px,347px 482px,548px 485px,550px 445px,580px 444px,582px 310px,618px 283px,617px 282px,582px 252px,582px 119px,549px 119px,550px 83px,343px 84px,316px 52px,288px 84px,85px 84px);
 
 /*Firefox*/
 clip-path: url("#clipPolygon");
-}
